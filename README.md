@@ -4,7 +4,7 @@ Criação de prototipo no figma da página web e da tipografia e cores, além da
 
 <br>
 
-## 1. Tipografia e Cores
+## 1. Tipografia e Cores (Figma)
 
 Antes de tudo, é importante a criação de um manual da marca. O manual da marca é um compilado de informações sobre os elementos visuais que serão utilizados em uma marca ou em uma página. No caso da nossa página, esse manual envolve a tipografia - que é a fonte utilizada, o tamanho da fonte, entre outros - e as cores - que são as cores utilizadas, o contraste entre elas e como funcionam dependendo do tamanho. Com essa parte do manual pronta, foi feito o protótipo.
 
@@ -12,7 +12,7 @@ Antes de tudo, é importante a criação de um manual da marca. O manual da marc
 
 <br>
 
-## 2. Protótipo
+## 2. Protótipo (Figma)
 
 Outra parte importante do projeto, é o protótipo. O protótipo traz a ideia inicial do que deve ser feito numa página e como os elementos se encaixam na página, além de que cores devem ser usadas em que elementos. No projeto ExpoMoto, foram feitos do protótipo para desktop e sua adaptação para mobile. A diferença entre os dois protótipos são a disposição dos elementos e os tamanhos das fontes, principalmente. Finalizado, os protótipos:
 
@@ -30,7 +30,20 @@ Outra parte importante do projeto, é o protótipo. O protótipo traz a ideia in
 
 <br>
 
-## 3. Página Web
+## 3. Página Web (HTML + CSS)
 
+Por fim, finalizamos o projeto fazendo a estrutura e a estilização da página web. A estrutura foi feita com HTML, usando tags e por fim, estilizando isso com o CSS. Finalizando a página, elas ficaram:
+
+<br>
+
+#### Desktop
+
+https://github.com/user-attachments/assets/74698e99-dfec-403b-a20f-0d37379c248d
+
+<br>
+
+#### Mobile
+
+https://github.com/user-attachments/assets/b4ef540d-41f0-47ee-ab6e-de2278f66454
 
 
