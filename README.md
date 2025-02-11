@@ -39,7 +39,6 @@ Por fim, finalizamos o projeto fazendo a estrutura e a estilização da página 
   * ``footer`` - o rodapé da página, usado para mostrar os direitos autorais ou formas de contato.
 
 Com a estrutura pronta, restou produzir a estilização da página com o CSS. Finalizando a página, elas ficaram:
-
 <br>
 
 #### Desktop
