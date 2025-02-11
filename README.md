@@ -32,7 +32,13 @@ Outra parte importante do projeto, é o protótipo. O protótipo traz a ideia in
 
 ## 3. Página Web (HTML + CSS)
 
-Por fim, finalizamos o projeto fazendo a estrutura e a estilização da página web. A estrutura foi feita com HTML, usando tags e por fim, estilizando isso com o CSS. Finalizando a página, elas ficaram:
+Por fim, finalizamos o projeto fazendo a estrutura e a estilização da página web. A estrutura foi feita com HTML, usando tags semânticas. Para relembrar, as tags semânticas são usadas para que programadores e enginers entendam com clareza as informações que estarão sendo processadas, então, descrevendo o conteúdo dos documentos. Exemplo dessas tags são:
+
+  * ``header`` - na página foi usada como cabeçalho;
+  * ``section`` - usadas para separar conteúdos com diferentes informações;
+  * ``footer`` - o rodapé da página, usado para mostrar os direitos autorais ou formas de contato.
+
+Com a estrutura pronta, restou produzir a estilização da página com o CSS. Finalizando a página, elas ficaram:
 
 <br>
 
